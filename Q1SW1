@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Q1SW1</title>
+
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Story+Script&display=swap" rel="stylesheet">
+
+	<style>
+		body{
+			font-family: "Story Script", sans-serif;
+  			font-weight: 400;
+
+  			background-color: #E2E4F6;
+		}
+		
+		h1	{
+
+			text-align: center;
+		}
+
+		hr 	{
+			text-align: center;
+			 
+			}
+
+
+		img {
+
+			align-items: center;
+			width: 40%;
+			box-shadow: 10px 10px 15px -5px rgba(97,86,86,0.75);
+			-webkit-box-shadow: 10px 10px 15px -5px rgba(97,86,86,0.75);
+			-moz-box-shadow: 10px 10px 15px -5px rgba(97,86,86,0.75);
+
+			border-radius: 10px 10px 10px 10px;
+			-webkit-border-radius: 10px 10px 10px 10px;
+			-moz-border-radius: 10px 10px 10px 10px;
+
+
+		}
+	</style>
+</head>
+
+<body>
+	<h1 style="color: #52414C;">My Top 3 Favourite Movies</h1>
+	<hr style="= color: darkgray; height: 3px;">
+
+
+	<center><img src="https://www.republicrecords.com/cdn/shop/files/REPU-00092_KPOP_DemonHunters_CollectionPage-Banner-02Mobile.png?v=1751556728&width=900" alt=""></center>
+
+
+<p><center><em style="color: #52414C;">Kpop Demon Hunters (2025)</em></center></p>
+
+<p><center><em style="color: #52414C;">K-pop Demon Hunters follows the story of Huntr/x, an all-female K-pop group (Rumi, Mira and Zoey) who are the secret guardians of the world.</em></center></p>
+
+</h1></center>
+
+
+	<!-- <p>Favourite Characters:</p>
+			<li>Rumi</li>
+			<li>Mira</li>
+			<li>Zoey</li>
+	-->
+
+	<center center style="color: #52414C;">
+	<img src="https://static.wikia.nocookie.net/heroes-and-villain/images/9/9b/Rumi_KPop_Demon_Hunters.jpg/revision/latest?cb=20250704163747" alt="">
+
+	<p>Rumi</p>
+	<img src="https://ella.janitorai.com/bot-avatars/rBM7R_PlasACXBaAX_VHF.webp?width=1200">
+
+	<p>Mira</p>
+
+	<img src="https://static.wikia.nocookie.net/netflix/images/3/37/Zoey_Profile.png/revision/latest?cb=20250715031628">
+
+	<p>Zoey</p>
+
+	</ul><hr>
+
+	</center>
+
+<center><img src="https://upload.wikimedia.org/wikipedia/en/a/ad/Spy_%C3%97_Family_Code_White_movie_poster.png" width="300"></center>
+
+</h1></center>
+
+<p><center><em style="color: #52414C;">Spy X Family Code: White (2023)</em></center></p><center><center>
+
+<p><center><em style="color: #52414C;">The Spy x Family movie, Code: White, follows the story of Loid, a master spy, his assassin wife Yor, and their telepathic daughter Anya, who are pretending to be a family for a mission but must go on a family trip to secure a dessert recipe for Anya's school, which accidentally leads Anya to swallow a microfilm that threatens world <peace class=""></peace></em></center></p>
+
+	<!-- <p>Favourite Characters:</p>
+			<li>Anya</li>
+			<li>Yor</li>
+			<li>Loid</li>
+	-->
+
+	<center><center style="color: #52414C;">
+		<img src="https://cdn.rafled.com/anime-icons/images/9d812cba92a4a411bc462c222b5454f9600ffcbee3ac0a54555cf869d5e258fb.jpg" alt="">
+
+	<p>Anya Forger</p>
+
+	<img src="http://cdn.rafled.com/anime-icons/images/5QUPbeUgSHjMAiuv9nBvCOaVaw3rZl4j.jpg">
+
+	<p>Yor Forger</p>
+
+	<img src="https://i1.sndcdn.com/artworks-mg4JzGRxop5IpLWl-EuVzMg-t500x500.jpg">
+
+	<p>Loid Forger</p>
+
+	</center>
+
+	</ul><hr>
+
+<center>
+	<img src="https://m.media-amazon.com/images/M/MV5BNGM1MTE4N2ItNWMxYS00MjhjLTllODYtYTViNDcxZGMxNjBkXkEyXkFqcGc@._V1_.jpg" width="10px"></center></center>
+
+</h1></center>
+
+<p><center><em style="color: #52414C;">The Apothecary Diaries (2023)</em></center></p>
+
+<p><center><em style="color: #52414C;">The Apothecary Diaries is about Maomao, a young apothecary who, after being kidnapped and sold into servitude at the imperial palace, uses her medical knowledge to solve strange and dangerous mysteries within the inner court.</em></center>
+
+
+	<!-- <ul style="color: mediumpurple;">
+	<p>Favourite Characters:</p>
+			<li>Maomao</li>
+			<li>Jinshi</li>
+			<li>Lishu</li>
+	-->
+
+	<center style="color: #52414C;">
+
+		<img src="https://preview.redd.it/maomao-got-the-cat-ears-out-as-soon-as-she-heard-something-v0-b4r06nya1pde1.jpg?width=640&crop=smart&auto=webp&s=7e54d66a6623518cad414676c8341ff4b88ba664" alt="">
+
+	<p>Maomao</p>
+
+	<img src="https://static.wikia.nocookie.net/kusuriya-no-hitorigoto/images/1/19/Jinshi_%28Anime%29.png/revision/latest?cb=20231022152724">
+
+	<p>Jinshi</p>
+
+	<img src="https://i.pinimg.com/736x/18/07/ff/1807ff3d71b38496c879354cb617ab74.jpg">
+
+	<p>Lishu</p>
+
+	</center>
+
+
+	</ul><hr>
+<center><h4 style="color: #52414C;">&copy2025. My Three Favourite Movies | Created by Cassiopeia Mica Rigodon 9S</h4></center>
+<hr>
+</body>
+</html>
+
+
+
+
+<!-- https://cssgenerator.org/box-shadow-css-generator.html https://fonts.google.com/selection/embed -->
